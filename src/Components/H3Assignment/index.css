@@ -83,6 +83,7 @@ li{
     background: linear-gradient(to right, #4040bf,  #33adff );
     display:flex;
     flex-direction: column;
+    padding-top: 20px;
 }
 
 .ul_container{
@@ -206,7 +207,8 @@ tr {
 }
 
 tr:hover{
-    background-color: #F9F9F9;
+    // background-color: #F9F9F9;
+    background-color: #D3D3D3;
 }
 
 .shadow_container{
